@@ -1,0 +1,21 @@
+body {
+    background: orange;
+}
+
+.texto-destaque {
+    color: blue;
+}
+
+.titulo-blog {
+    color: brown;
+}
+
+.urgente {
+    color: red;
+}
+
+p {
+    margin: 20px;
+    border: 10px solid black;
+    padding: 5px;
+}

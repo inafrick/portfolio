@@ -1,0 +1,18 @@
+body{
+    background-color: fuchsia;
+    color: springgreen;
+}
+p{
+    font-family: cursive;
+    font-size: larger;
+    background-color: green;
+    color: yellow;
+}
+a{
+    color: cyan;
+    color: black;
+}
+button{
+    background-color: yellowgreen;
+    text-decoration: none;
+}
